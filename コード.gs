@@ -230,6 +230,7 @@ function generateJson(){
   // Logger.log(building.areas[0].spots[0]);
   // Logger.log(building.areas[0].routes[0]);
   // Logger.log(building.warp_spots);
+  Logger.log('test');
 
   return building;
 }
